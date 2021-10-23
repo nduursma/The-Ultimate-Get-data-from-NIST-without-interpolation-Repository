@@ -39,8 +39,8 @@ After choosing the right molecular formula and phase, the thermochemical propert
 
 
 ```diff
-+                                                            GOOD LUCK!!                                                  + 
-+                                                      Made by Nadine Duursma                                             + 
++                                                GOOD LUCK!!                                             + 
++                                           Made by Nadine Duursma                                       + 
 ``` 
 #### References
 + JANAF: https://janaf.nist.gov/ 
