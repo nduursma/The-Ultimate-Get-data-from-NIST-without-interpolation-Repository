@@ -39,10 +39,10 @@ After choosing the right molecular formula and phase, you will find the thermoch
 
 
 ```diff
-+                                                GOOD LUCK!!                                             + 
-+                                           Made by Nadine Duursma                                       + 
--                           Created for the course AE4S01 Thermal Rocket Propulsion                      -
--                                Delft University of Technology, The Netherlands                         -
+-                                                GOOD LUCK!!                                             - 
+-                                           Made by Nadine Duursma                                       - 
++                           Created for the course AE4S01 Thermal Rocket Propulsion                      +
++                                Delft University of Technology, The Netherlands                         +
 ``` 
 #### References
 + JANAF: https://janaf.nist.gov/ 
