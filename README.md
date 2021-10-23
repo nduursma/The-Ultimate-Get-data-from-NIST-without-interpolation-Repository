@@ -32,7 +32,7 @@ If you do not know what molecular formula or phase to select, you can search for
 
 ![Find the right formula and phase.](https://github.com/nduursma/The-Ultimate-Get-data-from-NIST-without-interpolation-Repository/blob/main/formulatable.PNG)
 
-After choosing the right molecular formula and phase, the thermochemical properties are shown.
+After choosing the right molecular formula and phase, you will find the thermochemical properties.
 
 ![Output of the thermochemical properties.](https://github.com/nduursma/The-Ultimate-Get-data-from-NIST-without-interpolation-Repository/blob/main/output.PNG)
 
