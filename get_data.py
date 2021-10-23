@@ -50,8 +50,10 @@ l1 = ['Enthalpy','H(T)-H(Tr)', p.hef(T), '[kJ/mol]']
 l2 = ['Heat capacity','C_p', p.cp(T), '[J/mol/K]']
 l3 = ['Enthalpy of formation','DeltaH', p.DeltaH(Tr), '[kJ/mol]']
 l4 = ['Equilibrium constant', 'K_p', 10**(p.logKf(T)), '[-]']
+l5 = ['Entropy', 'S', p.S(T), '[J/mol/K]']
+                           
+L = [l1, l2, l3, l4, l5]
 
-L = [l1, l2, l3, l4]
 headers_ = ['Property', 'Symbol', 'Value', 'Unit']
 
 print(tabulate(L, headers=headers_))
