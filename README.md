@@ -18,7 +18,7 @@ conda env create -f TRP.yml
 
 ```
 
-To activate the environment and open the file "get_data.py" in Spyder, run the following command.
+Activate the environment and open the file "get_data.py" in Spyder.
 ```bash
 conda activate TRP
 spyder get_data.py
