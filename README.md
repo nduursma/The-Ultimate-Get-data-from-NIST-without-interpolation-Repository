@@ -28,7 +28,7 @@ Enter your temperature, the molecular formula, and the phase in the code.
 
 ![The datafields.](https://github.com/nduursma/The-Ultimate-Get-data-from-NIST-without-interpolation-Repository/blob/main/enterdata.PNG)
 
-If you do not know what molecular formula or phase to select, you can search for molecules by entering a part/ some atoms in the 'formula_' variable, and run the code to see what options are available. Note that the JANAF formula for 'OH' is specified as 'HO'.
+If you do not know what molecular formula or phase to select, you can search for molecules by entering a part/ some atoms in the 'formula_' variable, and run the code to see what options are available. Note that the JANAF formula for 'OH' is specified as 'HO', and ammonia 'NH2' is 'H2N'. The molecular formulas are in alphabetical order.
 
 ![Find the right formula and phase.](https://github.com/nduursma/The-Ultimate-Get-data-from-NIST-without-interpolation-Repository/blob/main/formulatable.PNG)
 
